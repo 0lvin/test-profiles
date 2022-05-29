@@ -41,6 +41,10 @@
           <Value>+set vid_renderer soft +set sw_colorlight 1</Value>
         </Entry>
         <Entry>
+          <Name>OpenGL 1.x</Name>
+          <Value>+set vid_renderer gl1</Value>
+        </Entry>
+        <Entry>
           <Name>OpenGL 3.x</Name>
           <Value>+set vid_renderer gl3</Value>
         </Entry>
